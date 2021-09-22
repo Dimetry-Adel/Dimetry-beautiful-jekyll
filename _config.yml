@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dmingary@asu.edu"
-  facebook: ""
-  github: ""
-  twitter: ""
-  patreon: ""
-  youtube: ""
+#  facebook: ""
+  github: "https://github.com/Dimetry-Adel"
+#  twitter: ""
+#  patreon: ""
+#  youtube: ""
 #  medium: ""
 #  reddit: ""
 #  linkedin: ""
